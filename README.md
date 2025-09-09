@@ -1,8 +1,21 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+## Getting Started
+1. Clone the repository:
+
+```bash
+git clone https://github.com/balaji2323/leo9-project.git
+cd leo9-project
+
+##install dependencies
+npm install
+# or
+yarn install
+# or
+pnpm install
+
+then, run the development server:
 
 ```bash
 npm run dev
